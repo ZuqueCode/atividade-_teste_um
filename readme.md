@@ -1,0 +1,3 @@
+## primeiro codigo com php
+--
+# foi inicido de começo que usariamos o xampp entao , iniciamos o sistema do apache e do mysql , corrigimos as portas para que ficasse funcionais , criamos uma pasta propia com nosso nome dentro da pasta htdocs , depois disso escrevemos parte do nosso banco de dados para que as informaçoes fossem ficar salvas neles , depois disso continuamos a construçao do nosso codigo html que foi algo basico , so criamos os inputs e o buton , depois disso fizemos a integraçao ao php , para que pudesse fazer login e sair.
