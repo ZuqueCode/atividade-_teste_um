@@ -12,7 +12,7 @@ if(!isset($_SESSION["usuario"])){
 // Verifica se o formulário foi enviado
 if($_SERVER["REQUEST_METHOD"] == "POST"){
 
-    // Recebe os dados digitados
+    // Recebe o s dados digitados
     $usuario = $_POST["usuario"];
     $senha = $_POST["senha"];
 
